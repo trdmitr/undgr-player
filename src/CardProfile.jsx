@@ -33,7 +33,8 @@ export default class CardProfile extends React.Component {
                 img: 'https://www.bensound.com/bensound-img/slowmotion.jpg',
                 audio: 'https://www.bensound.com/bensound-music/bensound-slowmotion.mp3',
                 duration: '3:26'
-            }],
+            }
+        ],
             // ####################################FOR KRISTINA####################################
         pause: false,
     };
