@@ -4,6 +4,7 @@ export default class CardProfile extends React.Component {
     state = {
         index: 3,
         currentTime: '0:00',
+        // ####################################FOR KRISTINA####################################
         musicList: [
             {
                 name: 'Черная Волга',
@@ -33,6 +34,7 @@ export default class CardProfile extends React.Component {
                 audio: 'https://www.bensound.com/bensound-music/bensound-slowmotion.mp3',
                 duration: '3:26'
             }],
+            // ####################################FOR KRISTINA####################################
         pause: false,
     };
 
