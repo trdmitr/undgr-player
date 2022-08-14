@@ -7,33 +7,86 @@ export default class CardProfile extends React.Component {
         // ####################################FOR KRISTINA####################################
         musicList: [
             {
-                name: 'Черная Волга',
-                author: 'Виталий Подземный',
-                img: 'https://sun9-west.userapi.com/sun9-54/s/v1/if2/Kas3ZayJT1cUz0XqcTgruytNGALR64AAD2559vtgUao9BdO8Nqr20sbvjoLgv3hRswfnR_GtbpzFkZlkfpxdCGbt.jpg?size=2560x1824&quality=96&type=album',
-                audio: 'https://drive.google.com/uc?export=download&id=11lr_5AS2CW-Sc5GNuV1dyXlmgBNyGeKG',
-                duration: '2:02'
+                name: 'Дальше действовать будем мы',
+                author: 'Artyom Smallkid',
+                img:   'https://vk.com/id8535351?z=photo8535351_369379742%2Falbum8535351_0%2Frev',
+                audio: 'https://drive.google.com/uc?export=download&id=1z7gtsItWjRie9hlmIvUYvbBe5gFPRmxg',
+                duration: '3:25'
             },
-            {
-                name: 'Gentle acoustic',
-                author: 'Acoustic',
-                img: 'https://www.bensound.com/bensound-img/sunny.jpg',
-                audio: 'https://www.bensound.com//bensound-music/bensound-sunny.mp3',
-                duration: '2:20'
+			
+			{
+                name: 'Бошентумай',
+                author: 'Нина Варьятская',
+                img:   'https://sun9-49.userapi.com/impg/BsHh_7YWyoBhLyO3nO1K-BniMMyt6xU2zHcgTQ/LFPfYeqx2yc.jpg?size=1920x1080&quality=96&sign=86bb8be869608178e1fe24e2b69a9f12&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1b4xVgjLqRd_DTkdOxMl8INX6Hb-tqq2l',
+                duration: '2:34'
             },
-            {
-                name: 'Corporate motivational',
-                author: 'Corporate',
-                img: 'https://www.bensound.com/bensound-img/energy.jpg',
-                audio: 'https://www.bensound.com/bensound-music/bensound-energy.mp3',
-                duration: '2:59'
+			
+			
+				{
+                name: 'Звезда',
+                author: 'Нина Варьятская',
+                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                audio: 'https://drive.google.com/uc?export=download&id=1IQjUUPZ0hFskwwQp7kGry9mmt--EzYfN',
+                duration: '3:33'
             },
-            {
-                name: 'Slow cinematic',
-                author: 'Royalty',
-                img: 'https://www.bensound.com/bensound-img/slowmotion.jpg',
-                audio: 'https://www.bensound.com/bensound-music/bensound-slowmotion.mp3',
-                duration: '3:26'
-            }
+			
+					{
+                name: 'Импровизация Группа Крови',
+                author: 'DackFax',
+                img:   'https://vk.com/dackfax2?z=photo375779867_457256242%2Fphotos375779867',
+                audio: 'https://drive.google.com/uc?export=download&id=1JQKVlErszOlYZ_hpHRrOQMzOZsJnQTc_',
+                duration: '3:07'
+            },
+			
+			
+		{
+                name: 'Звёзды Останутся здесь',
+                author: 'Серж Левинс',
+                img:   'https://vk.com/a.shukshin?z=photo18865972_457239924%2Fphotos18865972',
+                audio: 'https://drive.google.com/uc?export=download&id=1koZBPdPwLhosjsJhg99RWnUretI4Penq',
+                duration: '3:39'
+            },
+			
+			{
+                name: 'Около семи утра',
+                author: 'Константин Рубан',
+                img:   'https://vk.com/id144116206?z=photo144116206_457240336%2Fphotos144116206',
+                audio: 'https://drive.google.com/uc?export=download&id=1z3iWy_xYyybk5orlJhcUV0VoTkPt-OcJ',
+                duration: '3:25'
+            },
+			
+				{
+                name: 'Стук',
+                author: 'Нина Варьятская',
+                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                audio: 'https://drive.google.com/uc?export=download&id=1fFviBmQlKSUlT9kd-kaDryXlMeEGjVCo',
+                duration: '3:13'
+            },
+			
+			{
+                name: 'Ночь',
+                author: 'DackFax',
+                img:   'https://vk.com/dackfax2?z=photo375779867_457256242%2Fphotos375779867',
+                audio: 'https://drive.google.com/uc?export=download&id=1sBL5Q3zJPleHu6JF3QRdZ4K3vmN_1qmZ',
+                duration: '5:07'
+            },
+			
+			{
+                name: 'Я объявляю свой дом',
+                author: 'Нина Варьятская',
+                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                audio: 'https://drive.google.com/uc?export=download&id=1IAiKLcivhqDz0VaPoFjfd1JEdMxOnvO0',
+                duration: '2:04'
+            },
+			
+			{
+                name: 'Вступление',
+                author: 'Мария Шулятьева',
+                img:   'https://drive.google.com/uc?export=download&id=1N7Q8yghfyI-REB88wvg9jL6azX6NlM3H',
+                audio: 'https://drive.google.com/uc?export=download&id=1LRwEpgUYnlMcykdf8OGp42A5N1M0hH_M',
+                duration: '00:23'
+            },
         ],
             // ####################################FOR KRISTINA####################################
         pause: false,
@@ -46,6 +99,7 @@ export default class CardProfile extends React.Component {
         this.timelineRef.addEventListener("click", this.changeCurrentTime, false);
         this.timelineRef.addEventListener("mousemove", this.hoverTimeLine, false);
         this.timelineRef.addEventListener("mouseout", this.resetTimeLine, false);
+        console.log(this.playerRef)
     }
 
     componentWillUnmount() {
@@ -54,6 +108,8 @@ export default class CardProfile extends React.Component {
         this.timelineRef.removeEventListener("click", this.changeCurrentTime);
         this.timelineRef.removeEventListener("mousemove", this.hoverTimeLine);
         this.timelineRef.removeEventListener("mouseout", this.resetTimeLine);
+
+        console.log("this.timeUpdate", this.timeUpdate)
     }
 
     changeCurrentTime = (e) => {
@@ -186,7 +242,7 @@ export default class CardProfile extends React.Component {
                         Your browser does not support the audio element.
                     </audio>
                     <div className="img-wrap">
-                        <img src={currentSong.img} />
+                        <img src={currentSong.img} alt={currentSong.author}/>
                     </div>
                     <span className="song-name">{currentSong.name}</span>
                     <span className="song-autor">{currentSong.author}</span>
@@ -222,7 +278,7 @@ export default class CardProfile extends React.Component {
                                 (index === key && !pause ? 'current-audio' : '') +
                                 (index === key && pause ? 'play-now' : '')} >
 
-                            <img className="track-img" src={music.img} />
+                            <img className="track-img" src={music.img} alt={music.author} />
                             <div className="track-discr" >
                                 <span className="track-name" >{music.name}</span>
                                 <span className="track-author" >{music.author}</span>
