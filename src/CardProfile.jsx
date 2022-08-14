@@ -9,7 +9,7 @@ export default class CardProfile extends React.Component {
             {
                 name: 'Дальше действовать будем мы',
                 author: 'Artyom Smallkid',
-                img:   'https://vk.com/id8535351?z=photo8535351_369379742%2Falbum8535351_0%2Frev',
+                img:   'https://sun9-87.userapi.com/impf/c625319/v625319351/2deb2/a37plYgoT7A.jpg?size=1080x1440&quality=96&sign=14ddfe8f0a6865e28446506159375c33&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1z7gtsItWjRie9hlmIvUYvbBe5gFPRmxg',
                 duration: '3:25'
             },
@@ -26,7 +26,7 @@ export default class CardProfile extends React.Component {
 				{
                 name: 'Звезда',
                 author: 'Нина Варьятская',
-                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                img:   'https://sun9-49.userapi.com/impg/BsHh_7YWyoBhLyO3nO1K-BniMMyt6xU2zHcgTQ/LFPfYeqx2yc.jpg?size=1920x1080&quality=96&sign=86bb8be869608178e1fe24e2b69a9f12&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1IQjUUPZ0hFskwwQp7kGry9mmt--EzYfN',
                 duration: '3:33'
             },
@@ -34,16 +34,16 @@ export default class CardProfile extends React.Component {
 					{
                 name: 'Импровизация Группа Крови',
                 author: 'DackFax',
-                img:   'https://vk.com/dackfax2?z=photo375779867_457256242%2Fphotos375779867',
+                img:   'https://sun9-55.userapi.com/impg/tFteEtYTckk_tpigKGmZsdq0OKAA3U_YO1CYlA/JnqNW1Cvwxw.jpg?size=1125x1125&quality=96&sign=b82d1f799e8346d739aacaa683d5575c&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1JQKVlErszOlYZ_hpHRrOQMzOZsJnQTc_',
                 duration: '3:07'
             },
 			
 			
 		{
-                name: 'Звёзды Останутся здесь',
+                name: 'Звёзды останутся здесь',
                 author: 'Серж Левинс',
-                img:   'https://vk.com/a.shukshin?z=photo18865972_457239924%2Fphotos18865972',
+                img:   'https://sun9-13.userapi.com/impg/TFyNk9Bpgswz9RbQPSM8FmFgmKDgVWLGikzA8g/76f-qwDvWYA.jpg?size=828x685&quality=95&sign=fbe1ea455e33ef29bb0a4af92ab8dcfa&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1koZBPdPwLhosjsJhg99RWnUretI4Penq',
                 duration: '3:39'
             },
@@ -51,15 +51,30 @@ export default class CardProfile extends React.Component {
 			{
                 name: 'Около семи утра',
                 author: 'Константин Рубан',
-                img:   'https://vk.com/id144116206?z=photo144116206_457240336%2Fphotos144116206',
+                img:   'https://sun9-3.userapi.com/impg/3-9bc6898tYkHLsLoppEeUT1oTNM_IP23ia_JA/wLZyUeoJVnM.jpg?size=1620x2160&quality=95&sign=2e9db5dd769e7cde9aa3c9528435aeac&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1z3iWy_xYyybk5orlJhcUV0VoTkPt-OcJ',
                 duration: '3:25'
             },
+            {
+                name: 'Красно жёлтые дни',
+                author: 'Виталий Подземный',
+                img:   'https://sun9-32.userapi.com/impg/h40Exd0q90aqK3HsdJcS2K33kjLEN_U0bRDvBw/SmVzMx9KGns.jpg?size=1040x2160&quality=95&sign=05fa9766885b71bb5412c5504244e553&type=album',
+                audio: 'https://drive.google.com/file/d/1rYxNGKEqiIEkAsGLlAv5aJUWiVSWnJDg/view?usp=sharing',
+                duration: '4:57'
+            },
+            {
+                name: 'Музыка волн',
+                author: 'Виталий Подземный',
+                img:   'https://sun9-32.userapi.com/impg/h40Exd0q90aqK3HsdJcS2K33kjLEN_U0bRDvBw/SmVzMx9KGns.jpg?size=1040x2160&quality=95&sign=05fa9766885b71bb5412c5504244e553&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1nLN8aIr8XqrStQb6VEZC7KxMuBWog5__',
+                duration: '3:18'
+            },
+			
 			
 				{
                 name: 'Стук',
                 author: 'Нина Варьятская',
-                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                img:   'https://sun9-49.userapi.com/impg/BsHh_7YWyoBhLyO3nO1K-BniMMyt6xU2zHcgTQ/LFPfYeqx2yc.jpg?size=1920x1080&quality=96&sign=86bb8be869608178e1fe24e2b69a9f12&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1fFviBmQlKSUlT9kd-kaDryXlMeEGjVCo',
                 duration: '3:13'
             },
@@ -67,22 +82,28 @@ export default class CardProfile extends React.Component {
 			{
                 name: 'Ночь',
                 author: 'DackFax',
-                img:   'https://vk.com/dackfax2?z=photo375779867_457256242%2Fphotos375779867',
+                img:   'https://sun1-55.userapi.com/impg/tFteEtYTckk_tpigKGmZsdq0OKAA3U_YO1CYlA/JnqNW1Cvwxw.jpg?size=1125x1125&quality=96&sign=b82d1f799e8346d739aacaa683d5575c&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1sBL5Q3zJPleHu6JF3QRdZ4K3vmN_1qmZ',
                 duration: '5:07'
             },
-			
+            {
+                name: '',
+                author: '',
+                img:   '',
+                audio: '',
+                duration: ''
+            },
 			{
                 name: 'Я объявляю свой дом',
                 author: 'Нина Варьятская',
-                img:   'https://vk.com/enawd?z=photo113370402_457248956%2Fphotos113370402',
+                img:   'https://sun9-49.userapi.com/impg/BsHh_7YWyoBhLyO3nO1K-BniMMyt6xU2zHcgTQ/LFPfYeqx2yc.jpg?size=1920x1080&quality=96&sign=86bb8be869608178e1fe24e2b69a9f12&type=album',
                 audio: 'https://drive.google.com/uc?export=download&id=1IAiKLcivhqDz0VaPoFjfd1JEdMxOnvO0',
                 duration: '2:04'
             },
 			
 			{
-                name: 'Вступление',
-                author: 'Мария Шулятьева',
+                name: '15 августа',
+                author: 'Каверы',
                 img:   'https://drive.google.com/uc?export=download&id=1N7Q8yghfyI-REB88wvg9jL6azX6NlM3H',
                 audio: 'https://drive.google.com/uc?export=download&id=1LRwEpgUYnlMcykdf8OGp42A5N1M0hH_M',
                 duration: '00:23'
@@ -99,7 +120,7 @@ export default class CardProfile extends React.Component {
         this.timelineRef.addEventListener("click", this.changeCurrentTime, false);
         this.timelineRef.addEventListener("mousemove", this.hoverTimeLine, false);
         this.timelineRef.addEventListener("mouseout", this.resetTimeLine, false);
-        console.log(this.playerRef)
+        // console.log(this.playerRef)
     }
 
     componentWillUnmount() {
@@ -109,7 +130,7 @@ export default class CardProfile extends React.Component {
         this.timelineRef.removeEventListener("mousemove", this.hoverTimeLine);
         this.timelineRef.removeEventListener("mouseout", this.resetTimeLine);
 
-        console.log("this.timeUpdate", this.timeUpdate)
+        // console.log("this.timeUpdate", this.timeUpdate)
     }
 
     changeCurrentTime = (e) => {
