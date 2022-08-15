@@ -30,7 +30,13 @@ export default class CardProfile extends React.Component {
                 audio: 'https://drive.google.com/uc?export=download&id=1IQjUUPZ0hFskwwQp7kGry9mmt--EzYfN',
                 duration: '3:33'
             },
-			
+			{
+                name: '15 августа',
+                author: 'Каверы',
+                img:   'https://s00.yaplakal.com/pics/pics_original/5/7/6/17069675.jpg',
+                audio: 'https://drive.google.com/uc?export=download&id=1LRwEpgUYnlMcykdf8OGp42A5N1M0hH_M',
+                duration: '00:23'
+            },
 					{
                 name: 'Импровизация Группа Крови',
                 author: 'DackFax',
@@ -156,13 +162,7 @@ export default class CardProfile extends React.Component {
                 duration: '2:04'
             },
 			
-			{
-                name: '15 августа',
-                author: 'Каверы',
-                img:   'https://s00.yaplakal.com/pics/pics_original/5/7/6/17069675.jpg',
-                audio: 'https://drive.google.com/uc?export=download&id=1LRwEpgUYnlMcykdf8OGp42A5N1M0hH_M',
-                duration: '00:23'
-            },
+			
         ],
             // ####################################FOR KRISTINA####################################
         pause: false,
