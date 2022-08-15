@@ -70,7 +70,62 @@ export default class CardProfile extends React.Component {
                 duration: '3:18'
             },
 			
+			{
+                name: 'Прохожий',
+                author: 'Дворовый стиль',
+                img:   'https://sun9-west.userapi.com/sun9-10/s/v1/if1/2ztZ8g8fbCzHZLsZwa5lDFnItTuC_tRbGHlfbXHUqEVO3NhrIKE-zybdb7Nq6yHbzjIkzJqq.jpg?size=1080x693&quality=96&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1s9BMNSebBISR2ksjK7PPhw1o-NDXbRdw',
+                duration: '2:44'
+            },
+		
+{
+                name: 'Восьмиклассница',
+                author: 'Shp1onkA',
+                img:   'https://sun9-east.userapi.com/sun9-59/s/v1/ig2/jAmGuRYJ8Q9MSQOp9DIPfEF-0rpLQiv2p4R-zzszIFNxbsZ7xCc9ZPcin4Xaqm7UCSJBoMjVohEmW3k80vrtvRcE.jpg?size=1280x851&quality=95&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1RBCQKMuB5DzyYwSuomLHHLMrjfH7ysgw',
+                duration: '2:25'
+            },
+		
+{
+                name: 'Когда твоя девушка больна',
+                author: 'Василий Рыжкин',
+                img:   'https://sun1-25.userapi.com/impg/ipDE_qgR_wCJVpIqywrsVPMtwKcjOxBpRcWn1A/gjq8EQT76mk.jpg?size=1600x1201&quality=95&sign=b8462d28e7085aa89ab4cbb41adf6656&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1QzyEOKcGG1W1zUenUP9-sce9BAbi-CsI',
+                duration: '2:12'
+            },
+		
+{
+                name: 'Кукушка',
+                author: 'Василий Рыжкин',
+                img:   'https://sun1-25.userapi.com/impg/ipDE_qgR_wCJVpIqywrsVPMtwKcjOxBpRcWn1A/gjq8EQT76mk.jpg?size=1600x1201&quality=95&sign=b8462d28e7085aa89ab4cbb41adf6656&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1xmr4c6r6JSxRfu7uV4IENjTHQNVZfXZZ',
+                duration: '2:59'
+            },
+		
+{
+                name: 'Стань птицей',
+                author: 'Медоман',
+                img:   'https://sun9-west.userapi.com/sun9-70/s/v1/ig2/NKgo8m0sylayUYkInvVgiIpfzJ8DgGgQfjFj4MBe_Mqm9_0UXIJM2-KzW8ybXPb4ojVR4ooYzEFgC3oXSZmWK127.jpg?size=1000x1000&quality=95&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1YEGJz80beC6Majp8a98frT-ekPo0Kqok',
+                duration: '2:06'
+            },
+		
+		
+{
+                name: 'Последний герой',
+                author: 'Shp1onkA',
+                img:   'https://sun9-east.userapi.com/sun9-59/s/v1/ig2/jAmGuRYJ8Q9MSQOp9DIPfEF-0rpLQiv2p4R-zzszIFNxbsZ7xCc9ZPcin4Xaqm7UCSJBoMjVohEmW3k80vrtvRcE.jpg?size=1280x851&quality=95&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1tcIxVs0aTExgcZLR3gn4d5v5VNBsMXi1',
+                duration: '2:25'
+            },
 			
+{
+                name: 'Стук',
+                author: 'Василий Рыжкин',
+                img:   'https://sun1-25.userapi.com/impg/ipDE_qgR_wCJVpIqywrsVPMtwKcjOxBpRcWn1A/gjq8EQT76mk.jpg?size=1600x1201&quality=95&sign=b8462d28e7085aa89ab4cbb41adf6656&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1XllJH4TE7EmDTmlyKbJnOpjoeluMlvdx',
+                duration: '2:17'
+            },
 				{
                 name: 'Стук',
                 author: 'Нина Варьятская',
