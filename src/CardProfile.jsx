@@ -87,11 +87,11 @@ export default class CardProfile extends React.Component {
                 duration: '5:07'
             },
             {
-                name: '',
-                author: '',
-                img:   '',
-                audio: '',
-                duration: ''
+                name: 'Двигайся, танцуй со мной',
+                author: 'Медоман',
+                img:   'https://sun9-37.userapi.com/impg/Q0M7vgoEsXGz0IiqdDBsvC16M9-V4vuuiu2RmA/ZZDAU6ENPbw.jpg?size=1000x1000&quality=96&sign=97563f39aa81b863127b280bef7ca7c3&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1FpTSKbgCVLCt13uJZgcnIXPF2LoE-TUx',
+                duration: '1.58'
             },
 			{
                 name: 'Я объявляю свой дом',
@@ -104,7 +104,7 @@ export default class CardProfile extends React.Component {
 			{
                 name: '15 августа',
                 author: 'Каверы',
-                img:   'https://drive.google.com/uc?export=download&id=1N7Q8yghfyI-REB88wvg9jL6azX6NlM3H',
+                img:   'https://s00.yaplakal.com/pics/pics_original/5/7/6/17069675.jpg',
                 audio: 'https://drive.google.com/uc?export=download&id=1LRwEpgUYnlMcykdf8OGp42A5N1M0hH_M',
                 duration: '00:23'
             },
