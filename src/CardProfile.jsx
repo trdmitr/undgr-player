@@ -53,7 +53,13 @@ export default class CardProfile extends React.Component {
                 audio: 'https://drive.google.com/uc?export=download&id=1koZBPdPwLhosjsJhg99RWnUretI4Penq',
                 duration: '3:39'
             },
-			
+			{
+                name: 'Легенда',
+                author: 'Максим Анисимов',
+                img:   'https://sun9-58.userapi.com/impg/W3kUH1P7py58_d5HYuQjcIVoVGR5DL-WrW3uEg/zZIyRpKzqjo.jpg?size=960x1280&quality=96&sign=1303cca30879d529cf71750d6d1f1a82&type=album',
+                audio: 'https://drive.google.com/uc?export=download&id=1rf0W_eFyOjiPNye9uj3Xv-WcdqAfUyc1',
+                duration: '2:57'
+            },
 			{
                 name: 'Около семи утра',
                 author: 'Константин Рубан',
